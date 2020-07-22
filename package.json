@@ -1,0 +1,19 @@
+{
+  "name": "react-native-01-basico",
+  "version": "1.0.0",
+  "description": "Projeto exemplo de recursos básicos do React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbert-Lucas/React-Native-01-Basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbert-Lucas/React-Native-01-Basico/issues"
+  },
+  "homepage": "https://github.com/Elbert-Lucas/React-Native-01-Basico#readme"
+}
