@@ -97,6 +97,11 @@ const styles = StyleSheet.create({
     color: '#FFFFFF',
     textAlign: "center",
   },
+    botaoContainer: {
+    marginBottom: 5,
+    marginTop: 5,
+    borderRadius: 5
+  } 
 }); 
   
 
